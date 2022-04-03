@@ -2,7 +2,7 @@
 ## Note : If want some new features.. [DM me here](https://t.me/movieskacona) OR [Join here and ask](https://t.me/opleecher).
 <br>
 
-<h2>Join <a href=https://t.me/opleecher>TorrentLeech Group</a> for demo!</h2>
+<h2>Join <a href=https://t.me/opleecher>Op Leecher Group</a> for demo!</h2>
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
